@@ -5,7 +5,8 @@
 ## 🎮 Unity Developer | Full-Cycle Game Development | Generalist
 
 [![GitHub followers](https://img.shields.io/github/followers/Asort97?style=social)](https://github.com/Asort97)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/happycatvpn)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/asortiment97)
+[![Email](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](m.lorsanovv@gmail.ru)
 
 </div>
 
