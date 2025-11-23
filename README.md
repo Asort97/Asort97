@@ -1,8 +1,6 @@
-# 👋 Привет! Я Малик
-
 <div align="center">
 
-## 🎮 Unity Developer | Full-Cycle Game Development | Generalist
+##  Unity Developer | Golang Developer  
 
 [![GitHub followers](https://img.shields.io/github/followers/Asort97?style=social)](https://github.com/Asort97)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/asortiment97)
@@ -14,7 +12,7 @@
 
 ## 💼 О себе
 
-**5 лет в геймдеве** | **4 года коммерческого опыта**
+**5 лет в геймдеве** | **3 года коммерческого опыта**
 
 Специализируюсь на полном цикле разработки игр - от концепта до релиза. Имею опыт портирования игр на консоли (PlayStation, Xbox, Nintendo) и публикации на различных платформах.
 
@@ -29,6 +27,7 @@ Unity Editor:        5 лет опыта (3 года в коммерции)
 C#, ООП, SOLID:      Паттерны проектирования (Singleton, Factory, и др.)
 Архитектура:         Zenject (Dependency Injection)
 Async:               UniTask
+Reactive:            UniRx
 Анимация:            DoTween, Animator, Blend Tree
 ```
 
@@ -91,33 +90,11 @@ Async:               UniTask
 
 ---
 
-## 🎯 Специализация
-
-- ✅ **Full-Cycle разработка** - от идеи до релиза
-- ✅ **Портирование на консоли** - PS, Xbox, Nintendo
-- ✅ **Мультиплеер** - Photon, Mirror
-- ✅ **Монетизация** - IAP, реклама
-- ✅ **UI/UX** - адаптивный дизайн
-- ✅ **Оптимизация** - производительность игр
-- ✅ **3D/2D графика** - моделирование и анимация
-
----
-
 ## 📫 Связаться со мной
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/asortiment97)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asort97)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Открыт для интересных проектов и сотрудничества!
-
-⭐️ From [Asort97](https://github.com/Asort97)
 
 </div>
