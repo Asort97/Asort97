@@ -6,18 +6,15 @@
 
 ## 💻 My GitHub Stats
 
-<div align="center">
-
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asort97&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Asort97) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asort97&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Asort97) |
-
-</div>
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100"/>
+  <a href="https://github.com/Asort97">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Asort97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  
+  <a href="https://github.com/Asort97">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asort97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </a>
 </p>
----
 
 ---
 ### 🛠️ Core Skills
