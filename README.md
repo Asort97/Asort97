@@ -12,3 +12,4 @@
 ### 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/asortiment97)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.lorsanovv@gmail.ru)
+Или напишите мне: `m.lorsanovv@gmail.ru` (нажмите, чтобы скопировать)
