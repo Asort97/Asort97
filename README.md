@@ -2,12 +2,17 @@
 
 **5 Years in GameDev** | **3 Years of Commercial Experience**
 
-## 📊 GitHub Stats
+---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asort97&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Asort97)
+## 📊 My GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asort97&layout=compact&theme=radical&hide_border=true)](https://github.com/Asort97)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asort97&show_icons=true&theme=buefy&count_private=true&include_all_commits=true)](https://github.com/Asort97)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asort97&layout=compact&theme=buefy&langs_count=8)](https://github.com/Asort97)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Asort97&theme=gruvbox&no-frame=true)](https://github.com/Asort97)
+
+---
 ### 🛠️ Core Skills
 * Unity/C# (Zenject, UniTask, UniRx, DoTween)
 * Consoles: PlayStation, Xbox, Nintendo
