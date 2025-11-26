@@ -4,9 +4,9 @@
 
 ## 📊 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/YOUR_USERNAME)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asort97&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Asort97)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asort97&layout=compact&theme=radical&hide_border=true)](https://github.com/Asort97)
 
 ### 🛠️ Core Skills
 * Unity/C# (Zenject, UniTask, UniRx, DoTween)
