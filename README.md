@@ -6,11 +6,13 @@
 
 ## 📊 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asort97&show_icons=true&theme=buefy&count_private=true&include_all_commits=true)](https://github.com/Asort97)
+<div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asort97&layout=compact&theme=buefy&langs_count=8)](https://github.com/Asort97)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asort97&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Asort97&theme=gruvbox&no-frame=true)](https://github.com/Asort97)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asort97&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 ### 🛠️ Core Skills
