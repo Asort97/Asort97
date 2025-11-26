@@ -19,10 +19,11 @@
 ---
 ### 🛠️ Core Skills
 * Unity/C# (Zenject, UniTask, UniRx, DoTween)
+* Cinemachine Camera, Timeline, Animator
 * Consoles: PlayStation, Xbox, Nintendo
 * Multiplayer: Photon, Mirror
 * Publishing: Google Play, Yandex Games
-* 3D/UI: Blender, Figma
+* 3D/UI: Blender, Figma, Adobe Photoshop, Illustrator
 
 ### 📫 Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/asortiment97)
