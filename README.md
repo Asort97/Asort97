@@ -13,7 +13,10 @@
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asort97&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Asort97) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asort97&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Asort97) |
 
 </div>
-
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100"/>
+</p>
 ---
 
 ---
