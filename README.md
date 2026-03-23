@@ -18,11 +18,10 @@
 
 ---
 ### 🛠️ Core Skills
-* Unity/C# (Zenject, UniTask, UniRx, DoTween)
-* Cinemachine Camera, Timeline, Animator
-* Consoles: PlayStation, Xbox, Nintendo
-* Multiplayer: Photon, Mirror
-* Publishing: Google Play, Yandex Games
+* Unity/C# (Zenject, UniTask, UniRx, DoTween, Cinemachine Camera, Timeline, Animator)
+* Unity Consoles-Porting: PlayStation, Xbox, Nintendo
+* Unity Multiplayer: Photon, Mirror
+* App Publishing: Google Play, Yandex Games
 * Golang
 * Flutter
 * 3D/UI: Blender, Figma, Adobe Photoshop, Illustrator
