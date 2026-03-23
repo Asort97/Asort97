@@ -1,4 +1,4 @@
-## Unity Developer | Golang Developer
+## Software Developer
 
 **5 Years in GameDev** | **3 Years of Commercial Experience**
 
@@ -23,6 +23,8 @@
 * Consoles: PlayStation, Xbox, Nintendo
 * Multiplayer: Photon, Mirror
 * Publishing: Google Play, Yandex Games
+* Golang
+* Flutter
 * 3D/UI: Blender, Figma, Adobe Photoshop, Illustrator
 
 ### 📫 Contacts
